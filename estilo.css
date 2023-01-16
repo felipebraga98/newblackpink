@@ -1,0 +1,62 @@
+.pag_principal {
+    text-align: center;
+    background-color: pink;
+    margin: 1em 1em;
+    padding: 1em 1em;
+}
+
+.pag_1 {
+    font-style: italic;
+    margin: 2em 2em;
+}
+
+.sec1 {
+    text-align: center;
+    align-items: center;
+    margin: 2em 2em;
+}
+
+.pag_principal {
+    text-align: center;
+    align-items: center;
+}
+
+.imagembpp {
+    text-align: center;
+    align-items: center;
+    margin: 6em 2em;
+}
+
+
+.girls {
+    font-style: normal;
+    color: rgb(223, 46, 208);
+    margin: 4em 2em;
+    text-align: center;
+}
+
+.jenniebp {
+    float: left;
+    width: 300px;
+    border-radius: 20px;
+    margin: 0em 6em;
+    
+    
+}
+
+.jennie {
+    padding: 1em 2em;
+    margin: 10em 10em;
+    font-size: 20px;
+    
+}
+
+.lisa {
+    padding: 1em 2em;
+    margin: 12em 10em;
+    font-size: 20px;
+}
+
+.jisso {
+
+}
